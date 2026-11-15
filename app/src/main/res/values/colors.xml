@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#171923</color>
+    <color name="foreground">#F2F2F2</color>
+    <color name="muted">#B7BECD</color>
+    <color name="orange">#F07818</color>
+    <color name="launch_text">#FFFFFF</color>
+</resources>

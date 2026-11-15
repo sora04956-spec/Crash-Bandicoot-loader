@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crash Bandicoot PS1 Launcher</string>
+    <string name="title">CRASH BANDICOOT</string>
+    <string name="subtitle">ORIGINAL PLAYSTATION</string>
+    <string name="selected_image">Selected disc image</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="choose_image">CHOOSE GAME IMAGE</string>
+    <string name="launch_game">PLAY CRASH BANDICOOT</string>
+    <string name="choose_emulator">Choose a PlayStation emulator</string>
+    <string name="file_picker_unavailable">No Android file picker is available.</string>
+    <string name="selection_not_persisted">Image selected for this session, but access could not be saved. Select it again next time.</string>
+    <string name="choose_image_first">Choose your Crash Bandicoot disc image first.</string>
+    <string name="emulator_unavailable">No app can open this image. Install an emulator that supports shared files.</string>
+    <string name="image_name_unavailable">Could not read the selected image name. Select it again if the emulator cannot open it.</string>
+    <string name="image_access_unavailable">Could not share this image. Select it again and grant file access.</string>
+</resources>
